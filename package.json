@@ -1,6 +1,6 @@
 {
     "name": "@delightfulstudio/react-native-wheel-picker-android",
-    "version": "2.1.2",
+    "version": "2.1.3",
     "description": "Android-only WheelPicker and DatePicker components that mimic their standard iOS counterparts",
     "main": "index.js",
     "scripts": {

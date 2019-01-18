@@ -152,6 +152,7 @@ import { WheelPicker } from '@delightfulstudio/react-native-wheel-picker-android
 | visibleItemCount | 7 | `number` | Wheel Picker's items max visible count  |
 | renderIndicator | false | `bool` | Show Wheel Picker indicator |
 | indicatorColor | transparent | `string` | Indicator color  |
+| indicatorSize | 5 | `number` | Indicator stroke size  |
 | isCurtain | false | `bool` | Wheel Picker curtain  |
 | curtainColor | transparent | `string` | Wheel Picker curtain color  |
 | itemTextColor | grey | `string` | Wheel Picker's items color  |
